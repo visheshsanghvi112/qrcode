@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"components/Confetti.js -> canvas-confetti\":{\"id\":\"components/Confetti.js -> canvas-confetti\",\"files\":[\"static/chunks/node_modules_canvas-confetti_dist_confetti_module_mjs.js\"]}}"

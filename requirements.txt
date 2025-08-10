@@ -1,0 +1,2 @@
+# For deployment on Vercel/Node.js, requirements.txt is not needed, but for reference:
+canvas-confetti
